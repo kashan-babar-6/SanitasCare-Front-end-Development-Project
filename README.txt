@@ -1,1 +1,0 @@
-This is simple front-end development project developed in HTML5, CSS3, JavaScript
